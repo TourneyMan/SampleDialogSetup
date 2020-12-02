@@ -1,0 +1,11 @@
+{
+  "welcome": {
+    "english": "Welcome to Space Race 2020!",
+    "spanish": "¡Bienvenido a Space Race 2020!",
+    "german": "Willkommen zum Weltraumrennen 2020!"
+  },
+  "country prompt": {
+    "english": "Would you like to play as the United States or the U.S.S.R.?",
+    "spanish": "¿Te gustaría jugar como los Estados Unidos o la U.R.S.S.?"
+  }
+}

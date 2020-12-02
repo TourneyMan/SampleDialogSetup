@@ -1,0 +1,10 @@
+{
+  "victory": {
+    "english": "You have successfully landed on the Moon!",
+    "spanish": "¡Has aterrizado con éxito en la Luna!"
+  },
+  "loss": {
+    "english": "Your rocket blew up. You lose.",
+    "spanish": "Tu cohete ha explotado. Perdiste."
+  }
+}}
