@@ -4,8 +4,12 @@
     "spanish": "¡Bienvenido a Space Race 2020!",
     "german": "Willkommen zum Weltraumrennen 2020!"
   },
-  "country prompt": {
+  "country_prompt": {
     "english": "Would you like to play as the United States or the U.S.S.R.?",
     "spanish": "¿Te gustaría jugar como los Estados Unidos o la U.R.S.S.?"
+  },
+  "name_prompt": {
+    "english": "What is your name?",
+    "spanish": "¿Cuál es su nombre?"
   }
 }

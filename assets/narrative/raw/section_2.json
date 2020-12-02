@@ -3,7 +3,11 @@
     "english": "You have successfully landed on the Moon!",
     "spanish": "¡Has aterrizado con éxito en la Luna!"
   },
-  "loss": {
+  "thanks": {
+    "english": "{PLAYER_NAME}, thank you for your work.",
+    "spanish": "{PLAYER_NAME}, gracias por tu trabajo."
+  },
+  "defeat": {
     "english": "Your rocket blew up. You lose.",
     "spanish": "Tu cohete ha explotado. Perdiste."
   }
